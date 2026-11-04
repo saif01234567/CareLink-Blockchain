@@ -1,2 +1,2 @@
 # CareLink-Blockchain
-AI-powered medication adherence prediction with blockchain-based medical record integrity verification.  Copy repository name
+AI-powered medication adherence prediction with blockchain-based medical record integrity verification.
